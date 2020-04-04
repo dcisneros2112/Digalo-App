@@ -8614,7 +8614,7 @@ h1, h2, h3, h4, h5,
       width: 90%; } }
   #timer .time {
     width: 25%;
-    font-size: 40px;
+    font-size: 20px;
     font-weight: 500;
     border-left: 1px solid rgba(0, 0, 0, 0.05);
     color: #82ae46; }
